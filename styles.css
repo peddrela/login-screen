@@ -99,13 +99,14 @@ body {
   font-weight: 600;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-top: 20px;
+  transition: background-color 0.2s, color 0.2s;
 }
 
 .login:hover {
   background-color: #000;
   border: 2px solid rgba(255, 255, 255, .2);
   color: #fff;
-  transition: 0.5s;
+  
 }
 
 .register-link {

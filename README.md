@@ -17,7 +17,7 @@ Este é meu **primeiro projeto de HTML e CSS** — uma tela de login estática d
 
 > ⚠️ **Aviso:** Este projeto é propositalmente básico. Não tem JavaScript, não tem backend, não tem validação — é puro HTML e CSS. Está aqui como registro do ponto de partida, não como referência de boas práticas.
 
-O projeto foi feito no contexto do **PotiCode**, uma iniciativa de introdução à programação, e representa os primeiros passos no front-end.
+O projeto foi feito no contexto da **PotiCode**, Empresa Júnior da UFRN, uma iniciativa de introdução à programação, e representa os primeiros passos no front-end.
 
 ---
 
